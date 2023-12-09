@@ -18,14 +18,22 @@ Below are some screenshots: one showcasing the user interface of the application
 ![glitch](images/glitch.png)
 
 
-Key features and capabilities:
+Key Features:
+
 Image Filters: Includes options such as glitch, invert, sketch, and more.
+
 Adjustment Sliders: These allow for control over image properties like brightness, exposure, highlights, tints, etc.
+
 Image Manipulation: Provides the ability to crop, resize, rotate, and flip images.
+
 View Controls: Enables zooming in and out, along with a reset button to revert any edits and restore the original image.
+
 File Menu: Facilitates saving and loading images, and includes an exit button to close the application.
+
 GUI Styling: The graphical user interface is designed with various styling elements and themes.
+
 Event Handling: Manages user interactions with the GUI.
+
 PySimpleGUI Library: This library is used to construct a GUI equipped with buttons, sliders, and canvas components for image display.
 
 
@@ -34,17 +42,17 @@ How to run:
 Clone in github using git bash Go on the repository URL of the assignment. Copy the url and open git on gitbash
 and then git clone url link and open the file. Once you open the file, you should install all the required dependencies using pip install. Once thats done, run the program and in the terminal write: python filename.py imagename.jpg or other sourcefile and the application should pop up and now you can Enhance and edit your images.
 
-Dependencies required:
+Dependencies Required:
 
-PySimpleGUI
-opencv-python
-numpy
-matplotlib
-imutils
-pandas
-scipy
-argparse
-threading
+PySimpleGUI,
+opencv-python,
+numpy,
+matplotlib,
+imutils,
+pandas,
+scipy,
+argparse,
+threading,
 Pillow
 
 
