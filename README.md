@@ -18,6 +18,7 @@ Below are some screenshots: one showcasing the user interface of the application
 ![glitch](images/glitch.png)
 
 
+
 Key Features:
 
 Image Filters: Includes options such as glitch, invert, sketch, and more.
@@ -41,6 +42,7 @@ How to run:
 
 Clone in github using git bash Go on the repository URL of the assignment. Copy the url and open git on gitbash
 and then git clone url link and open the file. Once you open the file, you should install all the required dependencies using pip install. Once thats done, run the program and in the terminal write: python filename.py imagename.jpg or other sourcefile and the application should pop up and now you can Enhance and edit your images.
+
 
 Dependencies Required:
 
